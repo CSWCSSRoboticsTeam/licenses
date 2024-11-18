@@ -244,6 +244,6 @@ the "copyright" line and a pointer to where the full notice is found.
     PARTICULAR PURPOSE.  See the Internal Resource Exchange License for more details.
 
     You should have received a copy of the Internal Resource Exchange License along
-    with this program.  If not, see <https://github.com/CSWCSSRoboticsTeam/licenses/blob/main/IREL/v1/IREL_v1.txt?raw=true>.
+    with this program.  If not, see <https://github.com/CSWCSSRoboticsTeam/licenses/blob/main/IREL/v1/LICENSE.txt?raw=true>.
 
 Also add information on how to contact you by electronic and paper mail.
